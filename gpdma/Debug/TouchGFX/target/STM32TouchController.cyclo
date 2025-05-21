@@ -1,0 +1,7 @@
+D:\STM32CubeIDE_1.18.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.13.3.rel1.win32_1.0.0.202411081344\tools\bin/../lib/gcc/arm-none-eabi/13.3.1/../../../../arm-none-eabi/include/c++/13.3.1/bits/std_abs.h:56:3:long int std::abs(long int)	1
+../Middlewares/ST/touchgfx/framework/include/platform/driver/touch/TouchController.hpp:30:13:touchgfx::TouchController::~TouchController()	1
+../Middlewares/ST/touchgfx/framework/include/platform/driver/touch/TouchController.hpp:30:13:virtual touchgfx::TouchController::~TouchController()	1
+../TouchGFX/target/STM32TouchController.cpp:29:6:virtual void STM32TouchController::init()	1
+../TouchGFX/target/STM32TouchController.cpp:42:6:virtual bool STM32TouchController::sampleTouch(int32_t&, int32_t&)	16
+../TouchGFX/target/STM32TouchController.hpp:38:7:STM32TouchController::~STM32TouchController()	1
+../TouchGFX/target/STM32TouchController.hpp:38:7:virtual STM32TouchController::~STM32TouchController()	1

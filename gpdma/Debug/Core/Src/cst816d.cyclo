@@ -1,0 +1,12 @@
+../Core/Src/cst816d.c:7:19:CST816D_ReadReg	1
+../Core/Src/cst816d.c:13:19:CST816D_WriteReg	1
+../Core/Src/cst816d.c:19:9:CST816D_Init	1
+../Core/Src/cst816d.c:61:19:CST816D_GetTouchData	2
+../Core/Src/cst816d.c:90:9:CST816D_IsTouched	1
+../Core/Src/cst816d.c:97:19:CST816D_EnterDeepSleep	1
+../Core/Src/cst816d.c:104:19:CST816D_SetAutoSleep	1
+../Core/Src/cst816d.c:111:19:CST816D_SetIrqPulseWidth	1
+../Core/Src/cst816d.c:117:19:CST816D_SetMotionMask	1
+../Core/Src/cst816d.c:123:19:CST816D_SetMotionAngle	1
+../Core/Src/cst816d.c:129:19:CST816D_ConfigureContinuousMotion	4
+../Core/Src/cst816d.c:146:19:CST816D_SetIrqCtl	1

@@ -1,0 +1,13 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/events/GestureEvent.hpp:74:13:int16_t touchgfx::GestureEvent::getVelocity() const	1
+../Middlewares/ST/touchgfx/framework/include/touchgfx/events/GestureEvent.hpp:84:22:touchgfx::GestureEvent::GestureEventType touchgfx::GestureEvent::getType() const	1
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	1
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+../TouchGFX/generated/gui_generated/include/gui_generated/slidemenupage_screen/slideMenuPageViewBase.hpp:21:26:FrontendApplication& slideMenuPageViewBase::application()	1
+../TouchGFX/gui/include/gui/slidemenupage_screen/slideMenuPageView.hpp:11:13:slideMenuPageView::~slideMenuPageView()	1
+../TouchGFX/gui/include/gui/slidemenupage_screen/slideMenuPageView.hpp:11:13:virtual slideMenuPageView::~slideMenuPageView()	1
+../TouchGFX/gui/src/slidemenupage_screen/slideMenuPageView.cpp:3:1:slideMenuPageView::slideMenuPageView()	1
+../TouchGFX/gui/src/slidemenupage_screen/slideMenuPageView.cpp:7:6:virtual void slideMenuPageView::setupScreen()	1
+../TouchGFX/gui/src/slidemenupage_screen/slideMenuPageView.cpp:12:6:virtual void slideMenuPageView::tearDownScreen()	1
+../TouchGFX/gui/src/slidemenupage_screen/slideMenuPageView.cpp:16:6:virtual void slideMenuPageView::handleGestureEvent(const touchgfx::GestureEvent&)	3
